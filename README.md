@@ -4,10 +4,17 @@ Just the FTP server return codes, from RFC 959.
 
 ## Use it
 
-Grab it from [npm](http://npmjs.org) like so:
+Install using [npm](http://npmjs.org):
 
-	var codes = require('ftp-return-codes')
-	console.log(codes('200')) // Output: Command okay.
+	npm install ftp-return-codes
+
+Grab it in your code:
+
+```js
+var codes = require('ftp-return-codes')
+console.log(codes['200']) // => Command okay.
+console.log(codes[ 553 ]) // => Requested action not taken.
+```
 
 ## License
 
