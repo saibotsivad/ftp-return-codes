@@ -1,11 +1,11 @@
 {
   "name": "ftp-return-codes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Just the FTP server return codes, from RFC 959.",
   "main": "codes.json",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sdmp/ftp-return-codes.git"
+    "url": "git://github.com/tobiaslabs/ftp-return-codes.git"
   },
   "keywords": [
     "ftp",
@@ -14,6 +14,6 @@
   "author": "saibotsivad",
   "license": "VOL",
   "bugs": {
-    "url": "https://github.com/sdmp/ftp-return-codes/issues"
+    "url": "https://github.com/tobiaslabs/ftp-return-codes/issues"
   }
 }
