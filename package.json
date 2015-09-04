@@ -1,6 +1,6 @@
 {
   "name": "ftp-return-codes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Just the FTP server return codes, from RFC 959.",
   "main": "codes.json",
   "repository": {
