@@ -1,5 +1,7 @@
 # ftp-return-codes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/ftp-return-codes.svg)](https://greenkeeper.io/)
+
 Just the FTP server return codes, from RFC 959.
 
 ## Use it
